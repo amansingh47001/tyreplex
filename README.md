@@ -1,5 +1,5 @@
 ## Tyreplex clone
 
-![image description](/desktop-view.jpeg)
-![image description](/mobile-view.jpeg)
-![image description](/sidebar.jpeg)
+![Desktop View](/public/desktop-view.jpeg)
+![Mobile View](/public/mobile-view.jpeg)
+![Sidebar](/public/sidebar.jpeg)
