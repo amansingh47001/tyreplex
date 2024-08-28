@@ -49,12 +49,12 @@ function Company() {
         </Button>
       </div>
       <div className="md:col-span-4 flex gap-8 overflow-auto no-scrollbar">
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
-        <Image src="/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
+        <Image src="/tyreplex/shop-img.jpg" alt="shop front" width="300" height="250" className="object-contain" />
       </div>
     </div>
   );
