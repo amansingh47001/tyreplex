@@ -1,4 +1,5 @@
 # Tyreplex clone
+Technology used: Next.js, Tailwind.css, Shadcn
 
 ## Desktop View
 ![Desktop View](/public/desktop-view.jpeg)
