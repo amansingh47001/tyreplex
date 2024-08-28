@@ -45,7 +45,7 @@ function Company() {
           variant="outline"
         >
           {" "}
-          Get Direction
+          Get Direction suee
         </Button>
       </div>
       <div className="md:col-span-4 flex gap-8 overflow-auto no-scrollbar">
